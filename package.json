@@ -1,0 +1,9 @@
+{
+  "name": "ts-exercises",
+  "version": "1.0.0",
+  "description": "practicing typescript",
+  "main": "index.js",
+  "repository": "https://github.com/pspelman/ts_practice",
+  "author": "Philip Spelman <phil_spelman@hotmail.com>",
+  "license": "MIT"
+}
