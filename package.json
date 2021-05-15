@@ -5,5 +5,9 @@
   "main": "index.js",
   "repository": "https://github.com/pspelman/ts_practice",
   "author": "Philip Spelman <phil_spelman@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  }
 }
